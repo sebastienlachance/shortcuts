@@ -5,4 +5,13 @@ Chrome
 
 *Command-w* : Close current tab
 
-*option-command-<right or left arrow>* : Go to next/previous tab
+*option-command-<ight or left arrow>* : Go to next/previous tab
+
+
+Git
+===
+
+custom
+------
+
+git po : git push origin 
