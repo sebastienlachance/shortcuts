@@ -1,0 +1,5 @@
+Chrome
+======
+
+**Command-l** : Modify url
+**Command-w** : Close current tab
