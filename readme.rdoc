@@ -3,3 +3,4 @@ Chrome
 
 **Command-l** : Modify url
 **Command-w** : Close current tab
+*option-command-<right or left arrow>* : Go to next/previous tab
